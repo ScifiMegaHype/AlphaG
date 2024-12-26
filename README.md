@@ -5,7 +5,7 @@ The significant goal metric is generally calculated by determining the significa
 
 I would like to define αG as the much needed mathematical context of goals. 
 
-## What even look at αG?
+## Why even look at αG?
 
 There are 2 answers to this question, the techical and most important one and the real one, you can decide which is which.
 1. Significant Goals totals can be used to determine the importance of a player's goals regardless of the team they play for. This is especially important for goal scorers that play exceptionally for weaker teams. The αG metrics puts scorers on a level playing field. It is a guide to figuring out if a player could do it on a cold night in Stokes without actually being in Stokes.
