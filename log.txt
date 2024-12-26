@@ -1,0 +1,1763 @@
+AVL_v_MCI 2:1
+Jhon Dur�n (1) goal(s) for AVL against MCI
+Morgan Rogers (1) goal(s) for AVL against MCI
+Phil Foden (1) goal(s) for MCI against AVL
+
+
+BRE_v_NFO 0:2
+Ola Aina (1) goal(s) for NFO against BRE
+Anthony Elanga (1) goal(s) for NFO against BRE
+
+
+IPS_v_NEW 0:4
+Alexander Isak (3) goal(s) for NEW against IPS
+Jacob Murphy (1) goal(s) for NEW against IPS
+
+
+WHU_v_BHA 1:1
+Mohammed Kudus (1) goal(s) for WHU against BHA
+Mats Wieffer (1) goal(s) for BHA against WHU
+
+
+CRY_v_ARS 1:5
+Isma�la Sarr (1) goal(s) for CRY against ARS
+Gabriel Jesus (2) goal(s) for ARS against CRY
+Kai Havertz (1) goal(s) for ARS against CRY
+Gabriel Martinelli (1) goal(s) for ARS against CRY
+Declan Rice (1) goal(s) for ARS against CRY
+
+
+BOU_v_WHU 1:1
+Enes �nal (1) goal(s) for BOU against WHU
+Lucas Paquet� (1) goal(s) for WHU against BOU
+
+
+BHA_v_CRY 1:3
+Marc Gu�hi scored an own goal for BHA against CRY
+Trevoh Chalobah (1) goal(s) for CRY against BHA
+Isma�la Sarr (2) goal(s) for CRY against BHA
+
+
+MCI_v_MUN 1:2
+Josko Gvardiol (1) goal(s) for MCI against MUN
+Bruno Fernandes (1) goal(s) for MUN against MCI
+Amad Diallo (1) goal(s) for MUN against MCI
+
+
+CHE_v_BRE 2:1
+Marc Cucurella (1) goal(s) for CHE against BRE
+Nicolas Jackson (1) goal(s) for CHE against BRE
+Bryan Mbeumo (1) goal(s) for BRE against CHE
+
+
+SOU_v_TOT 0:5
+James Maddison (2) goal(s) for TOT against SOU
+Son Heung-Min (1) goal(s) for TOT against SOU
+Dejan Kulusevski (1) goal(s) for TOT against SOU
+Pape Sarr (1) goal(s) for TOT against SOU
+
+
+ARS_v_EVE 0:0
+
+
+LIV_v_FUL 2:2
+Cody Gakpo (1) goal(s) for LIV against FUL
+Diogo Jota (1) goal(s) for LIV against FUL
+Andreas Pereira (1) goal(s) for FUL against LIV
+Rodrigo Muniz (1) goal(s) for FUL against LIV
+
+
+NEW_v_LEI 4:0
+Jacob Murphy (2) goal(s) for NEW against LEI
+Bruno Guimar�es (1) goal(s) for NEW against LEI
+Alexander Isak (1) goal(s) for NEW against LEI
+
+
+WOL_v_IPS 1:2
+Matheus Cunha (1) goal(s) for WOL against IPS
+Matt Doherty scored an own goal for IPS against WOL
+Jack Taylor (1) goal(s) for IPS against WOL
+
+
+NFO_v_AVL 2:1
+Nikola Milenkovic (1) goal(s) for NFO against AVL
+Anthony Elanga (1) goal(s) for NFO against AVL
+Jhon Dur�n (1) goal(s) for AVL against NFO
+
+
+WHU_v_WOL 2:1
+Tom�s Soucek (1) goal(s) for WHU against WOL
+Jarrod Bowen (1) goal(s) for WHU against WOL
+Matt Doherty (1) goal(s) for WOL against WHU
+
+
+FUL_v_ARS 1:1
+Ra�l Jim�nez (1) goal(s) for FUL against ARS
+William Saliba (1) goal(s) for ARS against FUL
+
+
+IPS_v_BOU 1:2
+Conor Chaplin (1) goal(s) for IPS against BOU
+Enes �nal (1) goal(s) for BOU against IPS
+Dango Ouattara (1) goal(s) for BOU against IPS
+
+
+LEI_v_BHA 2:2
+Jamie Vardy (1) goal(s) for LEI against BHA
+Bobby De Cordova-Reid (1) goal(s) for LEI against BHA
+Tariq Lamptey (1) goal(s) for BHA against LEI
+Yankuba Minteh (1) goal(s) for BHA against LEI
+
+
+TOT_v_CHE 3:4
+Dominic Solanke (1) goal(s) for TOT against CHE
+Dejan Kulusevski (1) goal(s) for TOT against CHE
+Son Heung-Min (1) goal(s) for TOT against CHE
+Jadon Sancho (1) goal(s) for CHE against TOT
+Cole Palmer (2) goal(s) for CHE against TOT
+Enzo Fern�ndez (1) goal(s) for CHE against TOT
+
+
+AVL_v_SOU 1:0
+Jhon Dur�n (1) goal(s) for AVL against SOU
+
+
+BRE_v_NEW 4:2
+Bryan Mbeumo (1) goal(s) for BRE against NEW
+Yoane Wissa (1) goal(s) for BRE against NEW
+Nathan Collins (1) goal(s) for BRE against NEW
+Kevin Schade (1) goal(s) for BRE against NEW
+Alexander Isak (1) goal(s) for NEW against BRE
+Harvey Barnes (1) goal(s) for NEW against BRE
+
+
+CRY_v_MCI 2:2
+Daniel Mu�oz (1) goal(s) for CRY against MCI
+Maxence Lacroix (1) goal(s) for CRY against MCI
+Erling Haaland (1) goal(s) for MCI against CRY
+Rico Lewis (1) goal(s) for MCI against CRY
+
+
+MUN_v_NFO 2:3
+Rasmus H�jlund (1) goal(s) for MUN against NFO
+Bruno Fernandes (1) goal(s) for MUN against NFO
+Nikola Milenkovic (1) goal(s) for NFO against MUN
+Morgan Gibbs-White (1) goal(s) for NFO against MUN
+Chris Wood (1) goal(s) for NFO against MUN
+
+
+FUL_v_BHA 3:1
+Alex Iwobi (2) goal(s) for FUL against BHA
+Matt O'Riley scored an own goal for FUL against BHA
+Carlos Baleba (1) goal(s) for BHA against FUL
+
+
+BOU_v_TOT 1:0
+Dean Huijsen (1) goal(s) for BOU against TOT
+
+
+EVE_v_WOL 4:0
+Ashley Young (1) goal(s) for EVE against WOL
+Orel Mangala (1) goal(s) for EVE against WOL
+Craig Dawson scored an own goal for EVE against WOL
+
+
+MCI_v_NFO 3:0
+Bernardo Silva (1) goal(s) for MCI against NFO
+Kevin De Bruyne (1) goal(s) for MCI against NFO
+J�r�my Doku (1) goal(s) for MCI against NFO
+
+
+NEW_v_LIV 3:3
+Alexander Isak (1) goal(s) for NEW against LIV
+Anthony Gordon (1) goal(s) for NEW against LIV
+Fabian Sch�r (1) goal(s) for NEW against LIV
+Curtis Jones (1) goal(s) for LIV against NEW
+Mohamed Salah (2) goal(s) for LIV against NEW
+
+
+SOU_v_CHE 1:5
+Joe Aribo (1) goal(s) for SOU against CHE
+Axel Disasi (1) goal(s) for CHE against SOU
+Christopher Nkunku (1) goal(s) for CHE against SOU
+Noni Madueke (1) goal(s) for CHE against SOU
+Cole Palmer (1) goal(s) for CHE against SOU
+Jadon Sancho (1) goal(s) for CHE against SOU
+
+
+ARS_v_MUN 2:0
+Jurri�n Timber (1) goal(s) for ARS against MUN
+William Saliba (1) goal(s) for ARS against MUN
+
+
+AVL_v_BRE 3:1
+Morgan Rogers (1) goal(s) for AVL against BRE
+Ollie Watkins (1) goal(s) for AVL against BRE
+Matty Cash (1) goal(s) for AVL against BRE
+Mikkel Damsgaard (1) goal(s) for BRE against AVL
+
+
+IPS_v_CRY 0:1
+Jean-Philippe Mateta (1) goal(s) for CRY against IPS
+
+
+LEI_v_WHU 3:1
+Jamie Vardy (1) goal(s) for LEI against WHU
+Bilal El Khannouss (1) goal(s) for LEI against WHU
+Patson Daka (1) goal(s) for LEI against WHU
+Niclas F�llkrug (1) goal(s) for WHU against LEI
+
+
+CHE_v_AVL 3:0
+Nicolas Jackson (1) goal(s) for CHE against AVL
+Enzo Fern�ndez (1) goal(s) for CHE against AVL
+Cole Palmer (1) goal(s) for CHE against AVL
+
+
+MUN_v_EVE 4:0
+Marcus Rashford (2) goal(s) for MUN against EVE
+Joshua Zirkzee (2) goal(s) for MUN against EVE
+
+
+TOT_v_FUL 1:1
+Brennan Johnson (1) goal(s) for TOT against FUL
+Tom Cairney (1) goal(s) for FUL against TOT
+
+
+LIV_v_MCI 2:0
+Cody Gakpo (1) goal(s) for LIV against MCI
+Mohamed Salah (1) goal(s) for LIV against MCI
+
+
+BRE_v_LEI 4:1
+Yoane Wissa (1) goal(s) for BRE against LEI
+Kevin Schade (3) goal(s) for BRE against LEI
+Facundo Buonanotte (1) goal(s) for LEI against BRE
+
+
+WHU_v_ARS 2:5
+Aaron Wan-Bissaka (1) goal(s) for WHU against ARS
+Emerson (1) goal(s) for WHU against ARS
+Gabriel Magalh�es (1) goal(s) for ARS against WHU
+Leandro Trossard (1) goal(s) for ARS against WHU
+Martin �degaard (1) goal(s) for ARS against WHU
+Kai Havertz (1) goal(s) for ARS against WHU
+Bukayo Saka (1) goal(s) for ARS against WHU
+
+
+CRY_v_NEW 1:1
+Daniel Mu�oz (1) goal(s) for CRY against NEW
+Marc Gu�hi scored an own goal for NEW against CRY
+
+
+NFO_v_IPS 1:0
+Chris Wood (1) goal(s) for NFO against IPS
+
+
+WOL_v_BOU 2:4
+J�rgen Strand Larsen (2) goal(s) for WOL against BOU
+Justin Kluivert (3) goal(s) for BOU against WOL
+Milos Kerkez (1) goal(s) for BOU against WOL
+
+
+BHA_v_SOU 1:1
+Kaoru Mitoma (1) goal(s) for BHA against SOU
+Flynn Downes (1) goal(s) for SOU against BHA
+
+
+NEW_v_WHU 0:2
+Tom�s Soucek (1) goal(s) for WHU against NEW
+Aaron Wan-Bissaka (1) goal(s) for WHU against NEW
+
+
+115946 failed:
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='mc-summary__teams-container']"}
+  (Session info: chrome=121.0.6167.141); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6427D5E42+3538674]
+	(No symbol) [0x00007FF6423F4C02]
+	(No symbol) [0x00007FF6422A5AEB]
+	(No symbol) [0x00007FF6422EBF4E]
+	(No symbol) [0x00007FF6422EC0CC]
+	(No symbol) [0x00007FF64232E477]
+	(No symbol) [0x00007FF64230F0EF]
+	(No symbol) [0x00007FF64232BDE3]
+	(No symbol) [0x00007FF64230EE53]
+	(No symbol) [0x00007FF6422DF514]
+	(No symbol) [0x00007FF6422E0631]
+	GetHandleVerifier [0x00007FF642806CAD+3738973]
+	GetHandleVerifier [0x00007FF64285C506+4089270]
+	GetHandleVerifier [0x00007FF642854823+4057299]
+	GetHandleVerifier [0x00007FF642525C49+720121]
+	(No symbol) [0x00007FF64240126F]
+	(No symbol) [0x00007FF6423FC304]
+	(No symbol) [0x00007FF6423FC432]
+	(No symbol) [0x00007FF6423EBD04]
+	BaseThreadInitThunk [0x00007FFFF5FC257D+29]
+	RtlUserThreadStart [0x00007FFFF6DAAA58+40]
+
+IPS_v_MUN 1:1
+Omari Hutchinson (1) goal(s) for IPS against MUN
+Marcus Rashford (1) goal(s) for MUN against IPS
+
+
+LEI_v_CHE 1:2
+Jordan Ayew (1) goal(s) for LEI against CHE
+Nicolas Jackson (1) goal(s) for CHE against LEI
+Enzo Fern�ndez (1) goal(s) for CHE against LEI
+
+
+ARS_v_NFO 3:0
+Bukayo Saka (1) goal(s) for ARS against NFO
+Thomas Partey (1) goal(s) for ARS against NFO
+Ethan Nwaneri (1) goal(s) for ARS against NFO
+
+
+AVL_v_CRY 2:2
+Ollie Watkins (1) goal(s) for AVL against CRY
+Ross Barkley (1) goal(s) for AVL against CRY
+Isma�la Sarr (1) goal(s) for CRY against AVL
+Justin Devenny (1) goal(s) for CRY against AVL
+
+
+BOU_v_BHA 1:2
+David Brooks (1) goal(s) for BOU against BHA
+Jo�o Pedro (1) goal(s) for BHA against BOU
+Kaoru Mitoma (1) goal(s) for BHA against BOU
+
+
+EVE_v_BRE 0:0
+
+
+FUL_v_WOL 1:4
+Alex Iwobi (1) goal(s) for FUL against WOL
+Matheus Cunha (2) goal(s) for WOL against FUL
+Jo�o Gomes (1) goal(s) for WOL against FUL
+Gon�alo Guedes (1) goal(s) for WOL against FUL
+
+
+MCI_v_TOT 0:4
+James Maddison (2) goal(s) for TOT against MCI
+Pedro Porro (1) goal(s) for TOT against MCI
+Brennan Johnson (1) goal(s) for TOT against MCI
+
+
+MUN_v_LEI 3:0
+Bruno Fernandes (1) goal(s) for MUN against LEI
+Victor Kristiansen scored an own goal for MUN against LEI
+Alejandro Garnacho (1) goal(s) for MUN against LEI
+
+
+NFO_v_NEW 1:3
+Murillo (1) goal(s) for NFO against NEW
+Alexander Isak (1) goal(s) for NEW against NFO
+Joelinton (1) goal(s) for NEW against NFO
+Harvey Barnes (1) goal(s) for NEW against NFO
+
+
+TOT_v_IPS 1:2
+Rodrigo Bentancur (1) goal(s) for TOT against IPS
+Sam Szmodics (1) goal(s) for IPS against TOT
+Liam Delap (1) goal(s) for IPS against TOT
+
+
+CHE_v_ARS 1:1
+Pedro Neto (1) goal(s) for CHE against ARS
+Gabriel Martinelli (1) goal(s) for ARS against CHE
+
+
+BHA_v_MCI 2:1
+Jo�o Pedro (1) goal(s) for BHA against MCI
+Matt O'Riley (1) goal(s) for BHA against MCI
+Erling Haaland (1) goal(s) for MCI against BHA
+
+
+LIV_v_AVL 2:0
+Darwin N��ez (1) goal(s) for LIV against AVL
+Mohamed Salah (1) goal(s) for LIV against AVL
+
+
+BRE_v_BOU 3:2
+Yoane Wissa (2) goal(s) for BRE against BOU
+Mikkel Damsgaard (1) goal(s) for BRE against BOU
+Evanilson (1) goal(s) for BOU against BRE
+Justin Kluivert (1) goal(s) for BOU against BRE
+
+
+CRY_v_FUL 0:2
+Emile Smith Rowe (1) goal(s) for FUL against CRY
+Harry Wilson (1) goal(s) for FUL against CRY
+
+
+WHU_v_EVE 0:0
+
+
+WOL_v_SOU 2:0
+Pablo Sarabia (1) goal(s) for WOL against SOU
+Matheus Cunha (1) goal(s) for WOL against SOU
+
+
+FUL_v_BRE 2:1
+Harry Wilson (2) goal(s) for FUL against BRE
+Vitaly Janelt (1) goal(s) for BRE against FUL
+
+
+TOT_v_AVL 4:1
+Brennan Johnson (1) goal(s) for TOT against AVL
+Dominic Solanke (2) goal(s) for TOT against AVL
+James Maddison (1) goal(s) for TOT against AVL
+Morgan Rogers (1) goal(s) for AVL against TOT
+
+
+MUN_v_CHE 1:1
+Bruno Fernandes (1) goal(s) for MUN against CHE
+Mois�s Caicedo (1) goal(s) for CHE against MUN
+
+
+NEW_v_ARS 1:0
+Alexander Isak (1) goal(s) for NEW against ARS
+
+
+BOU_v_MCI 2:1
+Antoine Semenyo (1) goal(s) for BOU against MCI
+Evanilson (1) goal(s) for BOU against MCI
+Josko Gvardiol (1) goal(s) for MCI against BOU
+
+
+IPS_v_LEI 1:1
+Leif Davis (1) goal(s) for IPS against LEI
+Jordan Ayew (1) goal(s) for LEI against IPS
+
+
+LIV_v_BHA 2:1
+Cody Gakpo (1) goal(s) for LIV against BHA
+Mohamed Salah (1) goal(s) for LIV against BHA
+Ferdi Kadioglu (1) goal(s) for BHA against LIV
+
+
+NFO_v_WHU 3:0
+Chris Wood (1) goal(s) for NFO against WHU
+Callum Hudson-Odoi (1) goal(s) for NFO against WHU
+Ola Aina (1) goal(s) for NFO against WHU
+
+
+SOU_v_EVE 1:0
+Adam Armstrong (1) goal(s) for SOU against EVE
+
+
+WOL_v_CRY 2:2
+J�rgen Strand Larsen (1) goal(s) for WOL against CRY
+Jo�o Gomes (1) goal(s) for WOL against CRY
+Trevoh Chalobah (1) goal(s) for CRY against WOL
+Marc Gu�hi (1) goal(s) for CRY against WOL
+
+
+CHE_v_NEW 2:1
+Nicolas Jackson (1) goal(s) for CHE against NEW
+Cole Palmer (1) goal(s) for CHE against NEW
+Alexander Isak (1) goal(s) for NEW against CHE
+
+
+CRY_v_TOT 1:0
+Jean-Philippe Mateta (1) goal(s) for CRY against TOT
+
+
+WHU_v_MUN 2:1
+Crysencio Summerville (1) goal(s) for WHU against MUN
+Jarrod Bowen (1) goal(s) for WHU against MUN
+Casemiro (1) goal(s) for MUN against WHU
+
+
+ARS_v_LIV 2:2
+Bukayo Saka (1) goal(s) for ARS against LIV
+Mikel Merino (1) goal(s) for ARS against LIV
+Virgil van Dijk (1) goal(s) for LIV against ARS
+Mohamed Salah (1) goal(s) for LIV against ARS
+
+
+AVL_v_BOU 1:1
+Ross Barkley (1) goal(s) for AVL against BOU
+Evanilson (1) goal(s) for BOU against AVL
+
+
+EVE_v_FUL 1:1
+Beto (1) goal(s) for EVE against FUL
+Alex Iwobi (1) goal(s) for FUL against EVE
+
+
+BRE_v_IPS 4:3
+Yoane Wissa (2) goal(s) for BRE against IPS
+Bryan Mbeumo (2) goal(s) for BRE against IPS
+Sam Szmodics (1) goal(s) for IPS against BRE
+George Hirst (1) goal(s) for IPS against BRE
+Liam Delap (1) goal(s) for IPS against BRE
+
+
+BHA_v_WOL 2:2
+Danny Welbeck (1) goal(s) for BHA against WOL
+Evan Ferguson (1) goal(s) for BHA against WOL
+Rayan A�t-Nouri (1) goal(s) for WOL against BHA
+Matheus Cunha (1) goal(s) for WOL against BHA
+
+
+MCI_v_SOU 1:0
+Erling Haaland (1) goal(s) for MCI against SOU
+
+
+LEI_v_NFO 1:3
+Jamie Vardy (1) goal(s) for LEI against NFO
+Ryan Yates (1) goal(s) for NFO against LEI
+Chris Wood (2) goal(s) for NFO against LEI
+
+
+NFO_v_CRY 1:0
+Chris Wood (1) goal(s) for NFO against CRY
+
+
+WOL_v_MCI 1:2
+J�rgen Strand Larsen (1) goal(s) for WOL against MCI
+Josko Gvardiol (1) goal(s) for MCI against WOL
+John Stones (1) goal(s) for MCI against WOL
+
+
+LIV_v_CHE 2:1
+Mohamed Salah (1) goal(s) for LIV against CHE
+Curtis Jones (1) goal(s) for LIV against CHE
+Nicolas Jackson (1) goal(s) for CHE against LIV
+
+
+TOT_v_WHU 4:1
+Dejan Kulusevski (1) goal(s) for TOT against WHU
+Yves Bissouma (1) goal(s) for TOT against WHU
+Alphonse Areola scored an own goal for TOT against WHU
+Son Heung-Min (1) goal(s) for TOT against WHU
+Mohammed Kudus (1) goal(s) for WHU against TOT
+
+
+FUL_v_AVL 1:3
+Ra�l Jim�nez (1) goal(s) for FUL against AVL
+Morgan Rogers (1) goal(s) for AVL against FUL
+Ollie Watkins (1) goal(s) for AVL against FUL
+Issa Diop scored an own goal for AVL against FUL
+
+
+MUN_v_BRE 2:1
+Alejandro Garnacho (1) goal(s) for MUN against BRE
+Rasmus H�jlund (1) goal(s) for MUN against BRE
+Ethan Pinnock (1) goal(s) for BRE against MUN
+
+
+NEW_v_BHA 0:1
+Danny Welbeck (1) goal(s) for BHA against NEW
+
+
+SOU_v_LEI 2:3
+Cameron Archer (1) goal(s) for SOU against LEI
+Joe Aribo (1) goal(s) for SOU against LEI
+Facundo Buonanotte (1) goal(s) for LEI against SOU
+Jamie Vardy (1) goal(s) for LEI against SOU
+Jordan Ayew (1) goal(s) for LEI against SOU
+
+
+IPS_v_EVE 0:2
+Iliman Ndiaye (1) goal(s) for EVE against IPS
+Michael Keane (1) goal(s) for EVE against IPS
+
+
+BOU_v_ARS 2:0
+Ryan Christie (1) goal(s) for BOU against ARS
+Justin Kluivert (1) goal(s) for BOU against ARS
+
+
+AVL_v_MUN 0:0
+
+
+CHE_v_NFO 1:1
+Noni Madueke (1) goal(s) for CHE against NFO
+Chris Wood (1) goal(s) for NFO against CHE
+
+
+BHA_v_TOT 3:2
+Yankuba Minteh (1) goal(s) for BHA against TOT
+Georginio Rutter (1) goal(s) for BHA against TOT
+Danny Welbeck (1) goal(s) for BHA against TOT
+Brennan Johnson (1) goal(s) for TOT against BHA
+James Maddison (1) goal(s) for TOT against BHA
+
+
+ARS_v_SOU 3:1
+Kai Havertz (1) goal(s) for ARS against SOU
+Gabriel Martinelli (1) goal(s) for ARS against SOU
+Bukayo Saka (1) goal(s) for ARS against SOU
+Cameron Archer (1) goal(s) for SOU against ARS
+
+
+BRE_v_WOL 5:3
+Nathan Collins (1) goal(s) for BRE against WOL
+Bryan Mbeumo (1) goal(s) for BRE against WOL
+Christian N�rgaard (1) goal(s) for BRE against WOL
+Ethan Pinnock (1) goal(s) for BRE against WOL
+F�bio Carvalho (1) goal(s) for BRE against WOL
+Matheus Cunha (1) goal(s) for WOL against BRE
+J�rgen Strand Larsen (1) goal(s) for WOL against BRE
+Rayan A�t-Nouri (1) goal(s) for WOL against BRE
+
+
+EVE_v_NEW 0:0
+
+
+CRY_v_LIV 0:1
+Diogo Jota (1) goal(s) for LIV against CRY
+
+
+LEI_v_BOU 1:0
+Facundo Buonanotte (1) goal(s) for LEI against BOU
+
+
+MCI_v_FUL 3:2
+Mateo Kovacic (2) goal(s) for MCI against FUL
+J�r�my Doku (1) goal(s) for MCI against FUL
+Andreas Pereira (1) goal(s) for FUL against MCI
+Rodrigo Muniz (1) goal(s) for FUL against MCI
+
+
+WHU_v_IPS 4:1
+Michail Antonio (1) goal(s) for WHU against IPS
+Mohammed Kudus (1) goal(s) for WHU against IPS
+Jarrod Bowen (1) goal(s) for WHU against IPS
+Lucas Paquet� (1) goal(s) for WHU against IPS
+Liam Delap (1) goal(s) for IPS against WHU
+
+
+BOU_v_SOU 3:1
+Evanilson (1) goal(s) for BOU against SOU
+Dango Ouattara (1) goal(s) for BOU against SOU
+Antoine Semenyo (1) goal(s) for BOU against SOU
+Taylor Harwood-Bellis (1) goal(s) for SOU against BOU
+
+
+IPS_v_AVL 2:2
+Liam Delap (2) goal(s) for IPS against AVL
+Morgan Rogers (1) goal(s) for AVL against IPS
+Ollie Watkins (1) goal(s) for AVL against IPS
+
+
+MUN_v_TOT 0:3
+Brennan Johnson (1) goal(s) for TOT against MUN
+Dejan Kulusevski (1) goal(s) for TOT against MUN
+Dominic Solanke (1) goal(s) for TOT against MUN
+
+
+NEW_v_MCI 1:1
+Anthony Gordon (1) goal(s) for NEW against MCI
+Josko Gvardiol (1) goal(s) for MCI against NEW
+
+
+ARS_v_LEI 4:2
+Gabriel Martinelli (1) goal(s) for ARS against LEI
+Leandro Trossard (1) goal(s) for ARS against LEI
+Wilfred Ndidi scored an own goal for ARS against LEI
+Kai Havertz (1) goal(s) for ARS against LEI
+James Justin (2) goal(s) for LEI against ARS
+
+
+BRE_v_WHU 1:1
+Bryan Mbeumo (1) goal(s) for BRE against WHU
+Tom�s Soucek (1) goal(s) for WHU against BRE
+
+
+CHE_v_BHA 4:2
+Cole Palmer (4) goal(s) for CHE against BHA
+Georginio Rutter (1) goal(s) for BHA against CHE
+Carlos Baleba (1) goal(s) for BHA against CHE
+
+
+EVE_v_CRY 2:1
+Dwight McNeil (2) goal(s) for EVE against CRY
+Marc Gu�hi (1) goal(s) for CRY against EVE
+
+
+NFO_v_FUL 0:1
+Ra�l Jim�nez (1) goal(s) for FUL against NFO
+
+
+WOL_v_LIV 1:2
+Rayan A�t-Nouri (1) goal(s) for WOL against LIV
+Ibrahima Konat� (1) goal(s) for LIV against WOL
+Mohamed Salah (1) goal(s) for LIV against WOL
+
+
+BHA_v_NFO 2:2
+Jack Hinshelwood (1) goal(s) for BHA against NFO
+Danny Welbeck (1) goal(s) for BHA against NFO
+Chris Wood (1) goal(s) for NFO against BHA
+Ram�n Sosa (1) goal(s) for NFO against BHA
+
+
+MCI_v_ARS 2:2
+Erling Haaland (1) goal(s) for MCI against ARS
+John Stones (1) goal(s) for MCI against ARS
+Riccardo Calafiori (1) goal(s) for ARS against MCI
+Gabriel Magalh�es (1) goal(s) for ARS against MCI
+
+
+AVL_v_WOL 3:1
+Ollie Watkins (1) goal(s) for AVL against WOL
+Ezri Konsa (1) goal(s) for AVL against WOL
+Jhon Dur�n (1) goal(s) for AVL against WOL
+Matheus Cunha (1) goal(s) for WOL against AVL
+
+
+FUL_v_NEW 3:1
+Ra�l Jim�nez (1) goal(s) for FUL against NEW
+Emile Smith Rowe (1) goal(s) for FUL against NEW
+Reiss Nelson (1) goal(s) for FUL against NEW
+Harvey Barnes (1) goal(s) for NEW against FUL
+
+
+LEI_v_EVE 1:1
+Stephy Mavididi (1) goal(s) for LEI against EVE
+Iliman Ndiaye (1) goal(s) for EVE against LEI
+
+
+CRY_v_MUN 0:0
+
+
+WHU_v_CHE 0:3
+Nicolas Jackson (2) goal(s) for CHE against WHU
+Cole Palmer (1) goal(s) for CHE against WHU
+
+
+LIV_v_BOU 3:0
+Luis D�az (2) goal(s) for LIV against BOU
+Darwin N��ez (1) goal(s) for LIV against BOU
+
+
+SOU_v_IPS 1:1
+Tyler Dibling (1) goal(s) for SOU against IPS
+Sam Morsy (1) goal(s) for IPS against SOU
+
+
+TOT_v_BRE 3:1
+Dominic Solanke (1) goal(s) for TOT against BRE
+Brennan Johnson (1) goal(s) for TOT against BRE
+James Maddison (1) goal(s) for TOT against BRE
+Bryan Mbeumo (1) goal(s) for BRE against TOT
+
+
+TOT_v_ARS 0:1
+Gabriel Magalh�es (1) goal(s) for ARS against TOT
+
+
+WOL_v_NEW 1:2
+Mario Lemina (1) goal(s) for WOL against NEW
+Fabian Sch�r (1) goal(s) for NEW against WOL
+Harvey Barnes (1) goal(s) for NEW against WOL
+
+
+SOU_v_MUN 0:3
+Matthijs de Ligt (1) goal(s) for MUN against SOU
+Marcus Rashford (1) goal(s) for MUN against SOU
+Alejandro Garnacho (1) goal(s) for MUN against SOU
+
+
+BHA_v_IPS 0:0
+
+
+CRY_v_LEI 2:2
+Jean-Philippe Mateta (2) goal(s) for CRY against LEI
+Jamie Vardy (1) goal(s) for LEI against CRY
+Stephy Mavididi (1) goal(s) for LEI against CRY
+
+
+FUL_v_WHU 1:1
+Ra�l Jim�nez (1) goal(s) for FUL against WHU
+Danny Ings (1) goal(s) for WHU against FUL
+
+
+LIV_v_NFO 0:1
+Callum Hudson-Odoi (1) goal(s) for NFO against LIV
+
+
+MCI_v_BRE 2:1
+Erling Haaland (2) goal(s) for MCI against BRE
+Yoane Wissa (1) goal(s) for BRE against MCI
+
+
+AVL_v_EVE 3:2
+Ollie Watkins (2) goal(s) for AVL against EVE
+Jhon Dur�n (1) goal(s) for AVL against EVE
+Dwight McNeil (1) goal(s) for EVE against AVL
+Dominic Calvert-Lewin (1) goal(s) for EVE against AVL
+
+
+BOU_v_CHE 0:1
+Christopher Nkunku (1) goal(s) for CHE against BOU
+
+
+CHE_v_CRY 1:1
+Nicolas Jackson (1) goal(s) for CHE against CRY
+Eberechi Eze (1) goal(s) for CRY against CHE
+
+
+NEW_v_TOT 2:1
+Harvey Barnes (1) goal(s) for NEW against TOT
+Alexander Isak (1) goal(s) for NEW against TOT
+Dan Burn scored an own goal for TOT against NEW
+
+
+MUN_v_LIV 0:3
+Luis D�az (2) goal(s) for LIV against MUN
+Mohamed Salah (1) goal(s) for LIV against MUN
+
+
+BRE_v_SOU 3:1
+Bryan Mbeumo (2) goal(s) for BRE against SOU
+Yoane Wissa (1) goal(s) for BRE against SOU
+Yukinari Sugawara (1) goal(s) for SOU against BRE
+
+
+EVE_v_BOU 2:3
+Michael Keane (1) goal(s) for EVE against BOU
+Dominic Calvert-Lewin (1) goal(s) for EVE against BOU
+Antoine Semenyo (1) goal(s) for BOU against EVE
+Lewis Cook (1) goal(s) for BOU against EVE
+Luis Sinisterra (1) goal(s) for BOU against EVE
+
+
+WHU_v_MCI 1:3
+R�ben Dias scored an own goal for WHU against MCI
+Erling Haaland (3) goal(s) for MCI against WHU
+
+
+ARS_v_BHA 1:1
+Kai Havertz (1) goal(s) for ARS against BHA
+Jo�o Pedro (1) goal(s) for BHA against ARS
+
+
+IPS_v_FUL 1:1
+Liam Delap (1) goal(s) for IPS against FUL
+Adama Traor� (1) goal(s) for FUL against IPS
+
+
+LEI_v_AVL 1:2
+Facundo Buonanotte (1) goal(s) for LEI against AVL
+Amadou Onana (1) goal(s) for AVL against LEI
+Jhon Dur�n (1) goal(s) for AVL against LEI
+
+
+NFO_v_WOL 1:1
+Chris Wood (1) goal(s) for NFO against WOL
+Jean-Ricner Bellegarde (1) goal(s) for WOL against NFO
+
+
+BOU_v_NEW 1:1
+Marcus Tavernier (1) goal(s) for BOU against NEW
+Anthony Gordon (1) goal(s) for NEW against BOU
+
+
+WOL_v_CHE 2:6
+Matheus Cunha (1) goal(s) for WOL against CHE
+J�rgen Strand Larsen (1) goal(s) for WOL against CHE
+Nicolas Jackson (1) goal(s) for CHE against WOL
+Cole Palmer (1) goal(s) for CHE against WOL
+Noni Madueke (3) goal(s) for CHE against WOL
+Jo�o F�lix (1) goal(s) for CHE against WOL
+
+
+LIV_v_BRE 2:0
+Luis D�az (1) goal(s) for LIV against BRE
+Mohamed Salah (1) goal(s) for LIV against BRE
+
+
+BHA_v_MUN 2:1
+Danny Welbeck (1) goal(s) for BHA against MUN
+Jo�o Pedro (1) goal(s) for BHA against MUN
+Amad Diallo (1) goal(s) for MUN against BHA
+
+
+CRY_v_WHU 0:2
+Tom�s Soucek (1) goal(s) for WHU against CRY
+Jarrod Bowen (1) goal(s) for WHU against CRY
+
+
+FUL_v_LEI 2:1
+Emile Smith Rowe (1) goal(s) for FUL against LEI
+Alex Iwobi (1) goal(s) for FUL against LEI
+Wout Faes (1) goal(s) for LEI against FUL
+
+
+MCI_v_IPS 4:1
+Erling Haaland (3) goal(s) for MCI against IPS
+Kevin De Bruyne (1) goal(s) for MCI against IPS
+Sam Szmodics (1) goal(s) for IPS against MCI
+
+
+SOU_v_NFO 0:1
+Morgan Gibbs-White (1) goal(s) for NFO against SOU
+
+
+TOT_v_EVE 4:0
+Yves Bissouma (1) goal(s) for TOT against EVE
+Son Heung-Min (2) goal(s) for TOT against EVE
+Cristian Romero (1) goal(s) for TOT against EVE
+
+
+AVL_v_ARS 0:2
+Leandro Trossard (1) goal(s) for ARS against AVL
+Thomas Partey (1) goal(s) for ARS against AVL
+
+
+LEI_v_TOT 1:1
+Jamie Vardy (1) goal(s) for LEI against TOT
+Pedro Porro (1) goal(s) for TOT against LEI
+
+
+BRE_v_CRY 2:1
+Bryan Mbeumo (1) goal(s) for BRE against CRY
+Yoane Wissa (1) goal(s) for BRE against CRY
+Ethan Pinnock scored an own goal for CRY against BRE
+
+
+CHE_v_MCI 0:2
+Erling Haaland (1) goal(s) for MCI against CHE
+Mateo Kovacic (1) goal(s) for MCI against CHE
+
+
+ARS_v_WOL 2:0
+Kai Havertz (1) goal(s) for ARS against WOL
+Bukayo Saka (1) goal(s) for ARS against WOL
+
+
+EVE_v_BHA 0:3
+Kaoru Mitoma (1) goal(s) for BHA against EVE
+Danny Welbeck (1) goal(s) for BHA against EVE
+Simon Adingra (1) goal(s) for BHA against EVE
+
+
+WHU_v_AVL 1:2
+Lucas Paquet� (1) goal(s) for WHU against AVL
+Amadou Onana (1) goal(s) for AVL against WHU
+Jhon Dur�n (1) goal(s) for AVL against WHU
+
+
+IPS_v_LIV 0:2
+Diogo Jota (1) goal(s) for LIV against IPS
+Mohamed Salah (1) goal(s) for LIV against IPS
+
+
+NEW_v_SOU 1:0
+Joelinton (1) goal(s) for NEW against SOU
+
+
+NFO_v_BOU 1:1
+Chris Wood (1) goal(s) for NFO against BOU
+Antoine Semenyo (1) goal(s) for BOU against NFO
+
+
+MUN_v_FUL 1:0
+Joshua Zirkzee (1) goal(s) for MUN against FUL
+
+
+1.0125000000000002 against ARS
+0.78125 against AVL
+1.3 against NFO
+0.71875 against NEW
+0.6000000000000001 against WHU
+Ra�l Jim�nez's total_alphaG is 4.41 with 5 goals
+
+0.8499999999999999 against TOT
+Dean Huijsen's total_alphaG is 0.85 with 1 goals
+
+0.7333333333333334 against NFO
+0.48 against FUL
+J�r�my Doku's total_alphaG is 1.21 with 2 goals
+
+0.28125000000000006 against IPS
+0.7500000000000002 against LEI
+Jacob Murphy's total_alphaG is 1.03 with 3 goals
+
+1.0 against CHE
+0.7291666666666667 against NEW
+0.9 against IPS
+0.3656250000000001 against WOL
+0.675 against WHU
+0.65625 against TOT
+0.9000000000000001 against SOU
+0.5666666666666667 against CRY
+Bryan Mbeumo's total_alphaG is 5.79 with 10 goals
+
+0.3656250000000001 against WOL
+F�bio Carvalho's total_alphaG is 0.37 with 1 goals
+
+1.5750000000000002 against BHA
+0.33 against WOL
+0.5249999999999999 against EVE
+0.43333333333333335 against LEI
+Alex Iwobi's total_alphaG is 2.86 with 5 goals
+
+0.85 against IPS
+1.2 against TOT
+1.35 against LEI
+Jean-Philippe Mateta's total_alphaG is 3.40 with 4 goals
+
+0.3333333333333333 against WHU
+1.15 against LIV
+Callum Hudson-Odoi's total_alphaG is 1.48 with 2 goals
+
+0.7187500000000001 against NFO
+0.3500000000000001 against SOU
+Joelinton's total_alphaG is 1.07 with 2 goals
+
+0.34375 against CRY
+0.5666666666666667 against BHA
+0.30000000000000004 against SOU
+0.7187500000000001 against ARS
+1.1666666666666667 against BRE
+1.5750000000000002 against WHU
+0.9600000000000002 against IPS
+0.8999999999999999 against CHE
+Erling Haaland's total_alphaG is 6.53 with 13 goals
+
+2.0666666666666664 against BOU
+0.75 against CRY
+1.0999999999999999 against MCI
+0.759375 against BRE
+1.040625 against CHE
+J�rgen Strand Larsen's total_alphaG is 5.72 with 6 goals
+
+0.8999999999999999 against MCI
+0.87 against NFO
+0.5333333333333332 against LEI
+1.1624999999999999 against CHE
+Bruno Fernandes's total_alphaG is 3.47 with 4 goals
+
+0.43333333333333335 against MUN
+0.6 against BOU
+0.2333333333333334 against WOL
+0.7125 against NEW
+Josko Gvardiol's total_alphaG is 1.98 with 4 goals
+
+0.5625 against CRY
+1.5 against BRE
+Harry Wilson's total_alphaG is 2.06 with 3 goals
+
+0.9333333333333333 against NEW
+0.5625 against MCI
+0.6000000000000001 against AVL
+0.4 against BHA
+0.5625 against ARS
+0.6333333333333333 against CHE
+0.06666666666666672 against WOL
+0.26666666666666666 against MUN
+0.3375 against BRE
+0.11250000000000002 against IPS
+Mohamed Salah's total_alphaG is 4.48 with 11 goals
+
+0.05833333333333339 against SOU
+0.675 against NFO
+0.3093750000000003 against WOL
+Noni Madueke's total_alphaG is 1.04 with 5 goals
+
+0.5333333333333332 against CRY
+Gabriel Jesus's total_alphaG is 0.53 with 2 goals
+
+0.3125 against WOL
+1.1 against NEW
+0.5399999999999999 against TOT
+0.78125 against NFO
+0.5333333333333332 against MUN
+0.43333333333333324 against EVE
+Danny Welbeck's total_alphaG is 3.70 with 6 goals
+
+0.6999999999999998 against MUN
+Crysencio Summerville's total_alphaG is 0.70 with 1 goals
+
+0.43333333333333335 against IPS
+Rodrigo Bentancur's total_alphaG is 0.43 with 1 goals
+
+1.0125 against WOL
+0.4799999999999999 against BRE
+0.9375 against ARS
+Justin Kluivert's total_alphaG is 2.43 with 5 goals
+
+0.2333333333333333 against CRY
+0.7874999999999999 against CHE
+0.09374999999999994 against SOU
+0.17499999999999996 against LEI
+Gabriel Martinelli's total_alphaG is 1.29 with 4 goals
+
+0.2571428571428571 against WHU
+Martin �degaard's total_alphaG is 0.26 with 1 goals
+
+0.8999999999999999 against FUL
+Danny Ings's total_alphaG is 0.90 with 1 goals
+
+0.26666666666666666 against LEI
+0.3666666666666667 against WHU
+Amadou Onana's total_alphaG is 0.63 with 2 goals
+
+0.675 against IPS
+0.84 against BOU
+Michael Keane's total_alphaG is 1.52 with 2 goals
+
+1.0666666666666667 against NEW
+Mario Lemina's total_alphaG is 1.07 with 1 goals
+
+0.375 against LEI
+Tariq Lamptey's total_alphaG is 0.38 with 1 goals
+
+0.7125 against ARS
+Pedro Neto's total_alphaG is 0.71 with 1 goals
+
+0.43333333333333324 against EVE
+Simon Adingra's total_alphaG is 0.43 with 1 goals
+
+0.3656250000000001 against WOL
+Christian N�rgaard's total_alphaG is 0.37 with 1 goals
+
+0.8999999999999999 against MCI
+0.7999999999999999 against BHA
+Amad Diallo's total_alphaG is 1.70 with 2 goals
+
+0.4083333333333334 against NEW
+0.6333333333333333 against CHE
+Curtis Jones's total_alphaG is 1.04 with 2 goals
+
+0.875 against BRE
+Yukinari Sugawara's total_alphaG is 0.88 with 1 goals
+
+0.375 against LEI
+0.5399999999999999 against TOT
+Yankuba Minteh's total_alphaG is 0.91 with 2 goals
+
+0.35999999999999993 against EVE
+Lewis Cook's total_alphaG is 0.36 with 1 goals
+
+0.90625 against MCI
+Maxence Lacroix's total_alphaG is 0.91 with 1 goals
+
+0.7583333333333334 against LIV
+0.2666666666666667 against WOL
+Fabian Sch�r's total_alphaG is 1.03 with 2 goals
+
+0.9299999999999999 against AVL
+0.84 against BOU
+Dominic Calvert-Lewin's total_alphaG is 1.77 with 2 goals
+
+1.1666666666666665 against CHE
+0.7125 against IPS
+0.51 against SOU
+Jordan Ayew's total_alphaG is 2.39 with 3 goals
+
+0.75 against BRE
+0.51 against SOU
+1.4500000000000002 against BOU
+1.0666666666666667 against AVL
+Facundo Buonanotte's total_alphaG is 3.78 with 4 goals
+
+1.275 against EVE
+1.15 against FUL
+Joshua Zirkzee's total_alphaG is 2.42 with 3 goals
+
+0.7874999999999999 against LEI
+Leif Davis's total_alphaG is 0.79 with 1 goals
+
+0.7583333333333334 against LIV
+0.7875000000000001 against MCI
+0.7125 against BOU
+Anthony Gordon's total_alphaG is 2.26 with 3 goals
+
+0.6333333333333333 against MCI
+0.7 against NFO
+0.25 against SOU
+0.18750000000000003 against WOL
+0.26999999999999996 against EVE
+0.26666666666666666 against LEI
+0.3666666666666667 against WHU
+Jhon Dur�n's total_alphaG is 2.67 with 7 goals
+
+0.9375 against BHA
+0.759375 against BRE
+1.2666666666666666 against LIV
+Rayan A�t-Nouri's total_alphaG is 2.96 with 3 goals
+
+0.8857142857142857 against ARS
+1.0125000000000002 against NEW
+Aaron Wan-Bissaka's total_alphaG is 1.90 with 2 goals
+
+0.18750000000000003 against WOL
+Ezri Konsa's total_alphaG is 0.19 with 1 goals
+
+0.6333333333333333 against NFO
+Ethan Nwaneri's total_alphaG is 0.63 with 1 goals
+
+1.1083333333333334 against CHE
+0.69 against LEI
+Joe Aribo's total_alphaG is 1.80 with 2 goals
+
+0.9749999999999999 against BOU
+0.4799999999999999 against IPS
+0.9666666666666666 against AVL
+Lucas Paquet�'s total_alphaG is 2.42 with 3 goals
+
+0.8750000000000001 against BHA
+0.7187500000000001 against WHU
+1.03125 against NFO
+0.51 against SOU
+0.6875 against CRY
+0.9750000000000001 against TOT
+Jamie Vardy's total_alphaG is 4.80 with 6 goals
+
+0.5 against WOL
+0.6333333333333333 against EVE
+Marc Gu�hi's total_alphaG is 1.13 with 2 goals
+
+0.06666666666666672 against WOL
+Ibrahima Konat�'s total_alphaG is 0.07 with 1 goals
+
+0.32999999999999996 against MUN
+0.19999999999999996 against SOU
+Morgan Gibbs-White's total_alphaG is 0.53 with 2 goals
+
+0.05833333333333339 against SOU
+0.7000000000000001 against BOU
+Christopher Nkunku's total_alphaG is 0.76 with 2 goals
+
+0.9375 against AVL
+Justin Devenny's total_alphaG is 0.94 with 1 goals
+
+0.78125 against NFO
+Jack Hinshelwood's total_alphaG is 0.78 with 1 goals
+
+0.21875 against LEI
+Ryan Yates's total_alphaG is 0.22 with 1 goals
+
+0.675 against IPS
+0.7125 against LEI
+Iliman Ndiaye's total_alphaG is 1.39 with 2 goals
+
+0.32999999999999996 against MUN
+0.29999999999999993 against IPS
+0.3333333333333333 against WHU
+0.5249999999999999 against LEI
+0.44999999999999996 against CRY
+0.825 against CHE
+0.46875 against BHA
+0.1875 against WOL
+0.6 against BOU
+Chris Wood's total_alphaG is 4.02 with 10 goals
+
+0.7874999999999999 against NEW
+Marcus Tavernier's total_alphaG is 0.79 with 1 goals
+
+0.7666666666666666 against MCI
+Matt O'Riley's total_alphaG is 0.77 with 1 goals
+
+0.7187500000000001 against WHU
+Bilal El Khannouss's total_alphaG is 0.72 with 1 goals
+
+0.46875 against BHA
+Ram�n Sosa's total_alphaG is 0.47 with 1 goals
+
+0.3142857142857143 against TOT
+0.05833333333333339 against SOU
+Jadon Sancho's total_alphaG is 0.37 with 2 goals
+
+0.8999999999999999 against TOT
+0.7428571428571427 against BRE
+0.72 against WHU
+2.4749999999999996 against AVL
+1.0499999999999998 against FUL
+Liam Delap's total_alphaG is 5.89 with 6 goals
+
+0.8125 against BHA
+0.5 against WOL
+Trevoh Chalobah's total_alphaG is 1.31 with 2 goals
+
+0.43333333333333324 against SOU
+Matthijs de Ligt's total_alphaG is 0.43 with 1 goals
+
+0.33 against SOU
+0.8285714285714285 against CHE
+0.51 against WHU
+1.125 against EVE
+Son Heung-Min's total_alphaG is 2.79 with 5 goals
+
+0.40625 against BRE
+Matty Cash's total_alphaG is 0.41 with 1 goals
+
+0.7124999999999999 against TOT
+Tom Cairney's total_alphaG is 0.71 with 1 goals
+
+0.6333333333333333 against WHU
+Casemiro's total_alphaG is 0.63 with 1 goals
+
+1.0833333333333333 against BOU
+0.6666666666666666 against MUN
+0.3375 against BRE
+Luis D�az's total_alphaG is 2.09 with 5 goals
+
+0.84375 against AVL
+0.7200000000000001 against BOU
+Mikkel Damsgaard's total_alphaG is 1.56 with 2 goals
+
+0.9375 against ARS
+Ryan Christie's total_alphaG is 0.94 with 1 goals
+
+0.5625 against CRY
+0.71875 against NEW
+0.43333333333333335 against LEI
+Emile Smith Rowe's total_alphaG is 1.71 with 3 goals
+
+0.9750000000000001 against FUL
+Beto's total_alphaG is 0.98 with 1 goals
+
+0.46875 against EVE
+Cristian Romero's total_alphaG is 0.47 with 1 goals
+
+0.33 against SOU
+Pape Sarr's total_alphaG is 0.33 with 1 goals
+
+0.9333333333333332 against LIV
+Ferdi Kadioglu's total_alphaG is 0.93 with 1 goals
+
+0.33749999999999997 against SOU
+0.6999999999999998 against BOU
+0.43333333333333324 against EVE
+Kaoru Mitoma's total_alphaG is 1.47 with 3 goals
+
+1.2 against EVE
+Adam Armstrong's total_alphaG is 1.20 with 1 goals
+
+0.3125 against CRY
+0.6375 against BOU
+Ross Barkley's total_alphaG is 0.95 with 2 goals
+
+0.2571428571428571 against WHU
+0.6333333333333333 against NFO
+0.6874999999999999 against LIV
+0.09374999999999994 against SOU
+0.14999999999999997 against WOL
+Bukayo Saka's total_alphaG is 1.82 with 5 goals
+
+0.2625 against WOL
+Milos Kerkez's total_alphaG is 0.26 with 1 goals
+
+0.7071428571428572 against TOT
+0.05833333333333339 against SOU
+0.5666666666666667 against AVL
+0.5 against NEW
+2.166666666666667 against BHA
+0.2666666666666667 against WHU
+0.08437500000000007 against WOL
+Cole Palmer's total_alphaG is 4.35 with 11 goals
+
+0.7124999999999999 against SOU
+Pablo Sarabia's total_alphaG is 0.71 with 1 goals
+
+0.71875 against NEW
+Reiss Nelson's total_alphaG is 0.72 with 1 goals
+
+0.4799999999999999 against BRE
+0.7333333333333332 against MCI
+0.8624999999999999 against AVL
+0.24999999999999994 against SOU
+Evanilson's total_alphaG is 2.33 with 4 goals
+
+0.4799999999999999 against IPS
+Michail Antonio's total_alphaG is 0.48 with 1 goals
+
+0.7333333333333332 against MCI
+0.24999999999999994 against SOU
+0.35999999999999993 against EVE
+0.8999999999999999 against NFO
+Antoine Semenyo's total_alphaG is 2.24 with 4 goals
+
+0.5333333333333332 against LEI
+0.6999999999999998 against BRE
+0.43333333333333324 against SOU
+Alejandro Garnacho's total_alphaG is 1.67 with 3 goals
+
+0.90625 against LIV
+0.72 against MCI
+Rodrigo Muniz's total_alphaG is 1.63 with 2 goals
+
+1.0 against BOU
+Conor Chaplin's total_alphaG is 1.00 with 1 goals
+
+0.2333333333333334 against WOL
+0.7187500000000001 against ARS
+John Stones's total_alphaG is 0.95 with 2 goals
+
+0.6749999999999999 against SOU
+Sam Morsy's total_alphaG is 0.67 with 1 goals
+
+0.53125 against WOL
+Orel Mangala's total_alphaG is 0.53 with 1 goals
+
+0.7187500000000001 against WHU
+Patson Daka's total_alphaG is 0.72 with 1 goals
+
+0.53125 against NEW
+Murillo's total_alphaG is 0.53 with 1 goals
+
+0.8750000000000001 against BHA
+Bobby De Cordova-Reid's total_alphaG is 0.88 with 1 goals
+
+0.6333333333333333 against AVL
+0.32999999999999996 against MUN
+Nikola Milenkovic's total_alphaG is 0.96 with 2 goals
+
+0.35999999999999993 against EVE
+Luis Sinisterra's total_alphaG is 0.36 with 1 goals
+
+0.44999999999999996 against IPS
+Adama Traor�'s total_alphaG is 0.45 with 1 goals
+
+0.7 against AVL
+Phil Foden's total_alphaG is 0.70 with 1 goals
+
+0.9 against FUL
+Wout Faes's total_alphaG is 0.90 with 1 goals
+
+0.3142857142857143 against TOT
+0.5666666666666667 against AVL
+0.16666666666666674 against LEI
+Enzo Fern�ndez's total_alphaG is 1.05 with 3 goals
+
+0.5625 against ARS
+Virgil van Dijk's total_alphaG is 0.56 with 1 goals
+
+1.2374999999999998 against CHE
+Eberechi Eze's total_alphaG is 1.24 with 1 goals
+
+1.3125 against NFO
+Jean-Ricner Bellegarde's total_alphaG is 1.31 with 1 goals
+
+0.9375 against BHA
+0.69 against TOT
+0.4799999999999999 against IPS
+Mohammed Kudus's total_alphaG is 2.11 with 3 goals
+
+0.59375 against FUL
+0.7875 against CHE
+Carlos Baleba's total_alphaG is 1.38 with 2 goals
+
+0.7291666666666667 against NEW
+0.3656250000000001 against WOL
+Nathan Collins's total_alphaG is 1.09 with 2 goals
+
+0.3749999999999999 against MUN
+Jurri�n Timber's total_alphaG is 0.37 with 1 goals
+
+1.75 against CRY
+0.9299999999999999 against AVL
+Dwight McNeil's total_alphaG is 2.68 with 3 goals
+
+0.9333333333333335 against ARS
+1.9500000000000002 against BHA
+0.9375 against AVL
+Isma�la Sarr's total_alphaG is 3.82 with 4 goals
+
+0.44999999999999996 against BRE
+0.3333333333333333 against WHU
+Ola Aina's total_alphaG is 0.78 with 2 goals
+
+0.5625 against WHU
+Mats Wieffer's total_alphaG is 0.56 with 1 goals
+
+0.40625 against BRE
+0.3125 against CRY
+0.46875 against FUL
+0.21875 against IPS
+0.18750000000000003 against WOL
+0.6299999999999999 against EVE
+Ollie Watkins's total_alphaG is 2.22 with 7 goals
+
+0.8999999999999999 against TOT
+0.7428571428571427 against BRE
+0.9599999999999999 against MCI
+Sam Szmodics's total_alphaG is 2.60 with 3 goals
+
+1.1812500000000001 against IPS
+0.31250000000000006 against LEI
+0.4375000000000001 against BRE
+0.7583333333333334 against LIV
+0.7187500000000001 against NFO
+1.2000000000000002 against ARS
+0.8333333333333333 against CHE
+0.5333333333333333 against TOT
+Alexander Isak's total_alphaG is 5.98 with 10 goals
+
+0.34375 against CRY
+Rico Lewis's total_alphaG is 0.34 with 1 goals
+
+0.7875000000000001 against EVE
+0.6875 against CRY
+Stephy Mavididi's total_alphaG is 1.48 with 2 goals
+
+0.87 against NFO
+0.6999999999999998 against BRE
+Rasmus H�jlund's total_alphaG is 1.57 with 2 goals
+
+0.78125 against MCI
+0.525 against LEI
+Pedro Porro's total_alphaG is 1.31 with 2 goals
+
+1.0 against BOU
+Taylor Harwood-Bellis's total_alphaG is 1.00 with 1 goals
+
+0.87 against FUL
+0.75 against CRY
+Jo�o Gomes's total_alphaG is 1.62 with 2 goals
+
+0.34375 against FUL
+0.30000000000000004 against CRY
+0.11250000000000002 against IPS
+Diogo Jota's total_alphaG is 0.76 with 3 goals
+
+0.33333333333333326 against IPS
+0.24999999999999994 against SOU
+Dango Ouattara's total_alphaG is 0.58 with 2 goals
+
+0.2571428571428571 against WHU
+0.17499999999999996 against LEI
+0.6749999999999999 against AVL
+Leandro Trossard's total_alphaG is 1.11 with 3 goals
+
+0.33333333333333337 against BRE
+Marc Cucurella's total_alphaG is 0.33 with 1 goals
+
+0.3125 against WOL
+Evan Ferguson's total_alphaG is 0.31 with 1 goals
+
+0.69 against LEI
+1.15625 against ARS
+Cameron Archer's total_alphaG is 1.85 with 2 goals
+
+0.4375000000000001 against BRE
+0.7187500000000001 against NFO
+0.53125 against FUL
+0.2666666666666667 against WOL
+0.5333333333333333 against TOT
+Harvey Barnes's total_alphaG is 2.49 with 5 goals
+
+2.2666666666666666 against ARS
+James Justin's total_alphaG is 2.27 with 2 goals
+
+0.7428571428571427 against BRE
+George Hirst's total_alphaG is 0.74 with 1 goals
+
+0.6333333333333333 against MUN
+0.3656250000000001 against WOL
+Ethan Pinnock's total_alphaG is 1.00 with 2 goals
+
+1.1625 against BHA
+Flynn Downes's total_alphaG is 1.16 with 1 goals
+
+0.34375 against FUL
+0.5625 against MCI
+0.4 against BHA
+Cody Gakpo's total_alphaG is 1.31 with 3 goals
+
+0.5249999999999999 against WHU
+0.33333333333333326 against IPS
+Enes �nal's total_alphaG is 0.86 with 2 goals
+
+0.7291666666666667 against NEW
+1.8000000000000005 against LEI
+Kevin Schade's total_alphaG is 2.53 with 4 goals
+
+0.6000000000000001 against AVL
+0.43333333333333335 against BOU
+Darwin N��ez's total_alphaG is 1.03 with 2 goals
+
+0.6874999999999999 against LIV
+Mikel Merino's total_alphaG is 0.69 with 1 goals
+
+0.08437500000000007 against WOL
+Jo�o F�lix's total_alphaG is 0.08 with 1 goals
+
+0.33333333333333337 against BRE
+0.5666666666666667 against AVL
+0.16666666666666674 against LEI
+0.5 against NEW
+0.7 against LIV
+0.6666666666666669 against WHU
+0.26250000000000007 against CRY
+0.08437500000000007 against WOL
+Nicolas Jackson's total_alphaG is 3.28 with 9 goals
+
+0.33 against SOU
+0.8285714285714285 against CHE
+0.51 against WHU
+0.6 against MUN
+Dejan Kulusevski's total_alphaG is 2.27 with 4 goals
+
+0.2333333333333333 against CRY
+Declan Rice's total_alphaG is 0.23 with 1 goals
+
+0.8250000000000001 against IPS
+Tyler Dibling's total_alphaG is 0.83 with 1 goals
+
+0.51 against WHU
+0.46875 against EVE
+Yves Bissouma's total_alphaG is 0.98 with 2 goals
+
+0.5399999999999999 against TOT
+0.7875 against CHE
+Georginio Rutter's total_alphaG is 1.33 with 2 goals
+
+0.5 against WOL
+0.6999999999999998 against MUN
+0.4799999999999999 against IPS
+0.7124999999999999 against CRY
+Jarrod Bowen's total_alphaG is 2.39 with 4 goals
+
+0.5 against WOL
+1.0125000000000002 against NEW
+0.8250000000000001 against BRE
+0.7124999999999999 against CRY
+Tom�s Soucek's total_alphaG is 3.05 with 4 goals
+
+0.9375 against MUN
+Omari Hutchinson's total_alphaG is 0.94 with 1 goals
+
+0.6333333333333333 against BHA
+David Brooks's total_alphaG is 0.63 with 1 goals
+
+0.8285714285714285 against CHE
+1.8199999999999998 against AVL
+0.6 against MUN
+0.59375 against BRE
+Dominic Solanke's total_alphaG is 3.84 with 5 goals
+
+0.5312499999999999 against MCI
+Riccardo Calafiori's total_alphaG is 0.53 with 1 goals
+
+0.44999999999999996 against BRE
+0.6333333333333333 against AVL
+Anthony Elanga's total_alphaG is 1.08 with 2 goals
+
+0.77 against SOU
+1.875 against MCI
+0.78 against AVL
+0.66 against BHA
+0.59375 against BRE
+James Maddison's total_alphaG is 4.68 with 7 goals
+
+0.6333333333333333 against MCI
+0.40625 against BRE
+0.42 against TOT
+0.46875 against FUL
+0.21875 against IPS
+Morgan Rogers's total_alphaG is 2.15 with 5 goals
+
+0.2571428571428571 against WHU
+0.5312499999999999 against MCI
+0.5999999999999999 against TOT
+Gabriel Magalh�es's total_alphaG is 1.39 with 3 goals
+
+0.6333333333333333 against WOL
+Jack Taylor's total_alphaG is 0.63 with 1 goals
+
+0.53125 against WOL
+Ashley Young's total_alphaG is 0.53 with 1 goals
+
+1.275 against EVE
+0.5624999999999999 against IPS
+0.43333333333333324 against SOU
+Marcus Rashford's total_alphaG is 2.27 with 4 goals
+
+0.8333333333333333 against WHU
+Matt Doherty's total_alphaG is 0.83 with 1 goals
+
+0.3375 against MUN
+Mois�s Caicedo's total_alphaG is 0.34 with 1 goals
+
+0.6999999999999998 against BOU
+0.7666666666666666 against MCI
+0.9750000000000001 against ARS
+0.5333333333333332 against MUN
+Jo�o Pedro's total_alphaG is 2.97 with 4 goals
+
+0.8857142857142857 against ARS
+Emerson's total_alphaG is 0.89 with 1 goals
+
+0.2333333333333333 against CRY
+0.2571428571428571 against WHU
+0.09374999999999994 against SOU
+0.17499999999999996 against LEI
+0.5249999999999999 against BHA
+0.14999999999999997 against WOL
+Kai Havertz's total_alphaG is 1.43 with 6 goals
+
+0.48749999999999993 against FUL
+0.3749999999999999 against MUN
+William Saliba's total_alphaG is 0.86 with 2 goals
+
+1.1199999999999999 against FUL
+0.8999999999999999 against CHE
+Mateo Kovacic's total_alphaG is 2.02 with 3 goals
+
+0.90625 against LIV
+0.72 against MCI
+Andreas Pereira's total_alphaG is 1.63 with 2 goals
+
+0.05833333333333339 against SOU
+Axel Disasi's total_alphaG is 0.06 with 1 goals
+
+0.87 against FUL
+Gon�alo Guedes's total_alphaG is 0.87 with 1 goals
+
+0.31250000000000006 against LEI
+Bruno Guimar�es's total_alphaG is 0.31 with 1 goals
+
+0.7875000000000001 against FUL
+0.78125 against MCI
+0.78 against AVL
+0.66 against BHA
+0.6 against MUN
+0.59375 against BRE
+Brennan Johnson's total_alphaG is 4.20 with 6 goals
+
+0.7333333333333334 against NFO
+0.24 against IPS
+Kevin De Bruyne's total_alphaG is 0.97 with 2 goals
+
+0.90625 against MCI
+1.0499999999999998 against NEW
+Daniel Mu�oz's total_alphaG is 1.96 with 2 goals
+
+0.6999999999999998 against IPS
+2.03 against FUL
+0.7124999999999999 against SOU
+0.9375 against BHA
+0.759375 against BRE
+1.0625 against AVL
+1.040625 against CHE
+Matheus Cunha's total_alphaG is 7.24 with 8 goals
+
+0.6333333333333333 against NFO
+0.6749999999999999 against AVL
+Thomas Partey's total_alphaG is 1.31 with 2 goals
+
+0.7333333333333334 against FUL
+Vitaly Janelt's total_alphaG is 0.73 with 1 goals
+
+0.7291666666666667 against NEW
+0.45000000000000007 against LEI
+1.6800000000000002 against BOU
+0.9 against IPS
+0.8666666666666667 against MCI
+0.37500000000000006 against SOU
+0.5666666666666667 against CRY
+Yoane Wissa's total_alphaG is 5.57 with 9 goals
+
+0.7333333333333334 against NFO
+Bernardo Silva's total_alphaG is 0.73 with 1 goals
+
+0.53125 against LEI
+Niclas F�llkrug's total_alphaG is 0.53 with 1 goals
+
