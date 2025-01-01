@@ -1,13 +1,13 @@
 
 ## What is αG?
 
-The significant goal metric is generally calculated by determining the significance of a scored based on various factors. These factors may vary depending on the mathematical model, but include the ranking or the team the player plays for, ranking of the opponent scored against, the difference the goal makes on the match final score and other characteristics. Each goal is then given a value, representing the goal's impact. For example, a 2024/2025 Harry Kane champions league goal for Bayern Munich vs Dinamo Zagreb in a 9-2 win for Bayern is worth 0.26 and a Bukayo Saka goal for Arsenal in a 2-0 win against PSG is worth 0.98. We can now also mathematically quantify what scoring for is and is not.
+The significant goal metric is generally calculated by determining the significance of a scored based on various factors. These factors may vary depending on the mathematical model, but include the ranking of the team the player plays for, ranking of the opponent scored against, the difference the goal makes on the match final score and other characteristics. Each goal is then given a value, representing the goal's impact. For example, a 2024/2025 Harry Kane champions league goal for Bayern Munich vs Dinamo Zagreb in a 9-2 win for Bayern is worth 0.26 and a Bukayo Saka goal for Arsenal in a 2-0 win against PSG is worth 0.98. We can now also mathematically quantify what scoring for fun is and is not.
 
 I would like to define αG as the much needed mathematical context of goals. 
 
 ## Why even look at αG?
 
-There are 2 answers to this question, the techical and most important one and the real one, you can decide which is which.
+There are 2 answers to this question, the techical and most important one, and the real one, you can decide which is which.
 1. Significant Goals totals can be used to determine the importance of a player's goals regardless of the team they play for. This is especially important for goal scorers that play exceptionally for weaker teams. The αG metrics puts scorers on a level playing field. It is a guide to figuring out if a player could do it on a cold night in Stokes without actually being in Stokes.
 2. Messi vs Ronaldo. I wanted to create an objective measure of the significance of the goals scored across the 2 careers to add fuel to the never ending Messi vs Ronaldo "debate".  
 
